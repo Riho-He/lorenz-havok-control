@@ -26,3 +26,13 @@ In short:
 
 - first: predict the forcing
 - now: generate the forcing to shape the Lorenz switching pattern
+
+## Repository Structure
+
+```text
+papers/        Paper reading notes and summaries
+experiments/   Runnable experiments, metrics, figures, and result tables
+src/           Reusable Python code for HAVOK control experiments
+data/          Raw and processed data files
+report/        Thesis/report-style writing and final narrative
+```
